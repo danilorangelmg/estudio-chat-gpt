@@ -1,0 +1,9 @@
+name: stack-chat-gpt-template
+description: Stack para Integração com ChatGpt
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
